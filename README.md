@@ -1,16 +1,5 @@
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayza.
 
-<div style="display: flex; align-items: center;">
-  <img src="https://imgur.com/O3EIPHp" alt="GIF" width="150" style="margin-right: 20px;">
-  <div>
-    <h2>About Me</h2>
-    <ul>
-      <li>I'm a developer.</li>
-      <li>I love open source!</li>
-    </ul>
-  </div>
-</div>
-
 # 💫 About Me:
 🔭 I’m currently studying Computer Science in UTMJB<br>🌱 Learning on Technology and Information System<br>💬 How to reach me: ayzanaseha@graduate.utm.my<br>⚡ Fun fact: I love sleeping
 
